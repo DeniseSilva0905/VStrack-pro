@@ -1,0 +1,6 @@
+{
+  "name": "VSTracks Pro",
+  "description": "Plataforma profissional de reprodução de VS e gerenciamento de shows ao vivo para músicos e bandas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
